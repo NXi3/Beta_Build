@@ -10,9 +10,12 @@ If you want to get involved, you can do so by forking this repository, and then 
 
 ## How to run
 First you will need to create an account on [**Firebase**](https://firebase.google.com), as we use a two layer authentication system, which requires a **Firebase** account.  
-You will also need the **Firebase CLI** installed, which you can do by running `npm install -g firebase-tools` in your terminal.  
-Then, you will need to run `firebase login` in your terminal, and login to your **Firebase** account.  
-You will then need to run `firebase init` in your terminal, and select the **Firebase** project you want to use.  
-Then, you will need to run `firebase deploy` in your terminal, to deploy the frontend to Firebase.
+```js
+1: Clone the repository repository: git clone https://github.com/NXi3/Beta_Build.git 
+2: Run 'firebase login' and login to your account.
+3: Run 'firebase init' and select the 'Options' you want, we would recommend them all.
+4: Run 'firebase deploy' and wait for it to deploy.
+4: Run 'npm start:dev' and wait for it to start.
+```
 
 You are also going to need the [Backend Api](), if you intend on using this frontend with its full capabilities.

@@ -1,0 +1,17 @@
+@import "../../../node_modules/simplebar/dist/simplebar.css";
+@import "../../../node_modules/highlight.js/styles/androidstudio.css";
+// Vex Core
+@import "../../settings/theme/styles/core";
+
+html {
+  position: relative;
+  min-height: 100%; //overflow: scroll; //overflow-x: hidden;
+  ::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+  }
+}
+body {
+  margin: 0;
+  font-family: Poppins, "Helvetica Neue", sans-serif;
+}

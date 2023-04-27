@@ -36,8 +36,8 @@
               }
             ],
             "styles": [
-              "src/styles.scss",
-              "src/@vex/styles/tailwind.scss"
+              "src/assets/styles/styles.scss",
+              "src/settings/theme/styles/tailwind.scss"
             ],
             "scripts": [],
             "allowedCommonJsDependencies": [

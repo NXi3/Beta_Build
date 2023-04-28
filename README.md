@@ -19,3 +19,11 @@ First you will need to create an account on [**Firebase**](https://firebase.goog
 ```
 
 You are also going to need the [Backend Api](), if you intend on using this frontend with its full capabilities.
+
+We've **remitted** the **Alpha Code** to the public, as it is an utter mess, and so this is the **Clean Version**. We've also removed the following and so you will need to create them.
+
+```js
+1: Environments folder | Path: src/environments - rename environments.temp before running any commands.
+```
+
+We will update as we remit others.

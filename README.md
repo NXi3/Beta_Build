@@ -8,6 +8,12 @@ as it is an utter mess and so this is the **Clean Version**.
 ## How to get involved
 If you want to get involved, you can do so by forking this repository, and then making a pull request. We will then review your code, and if it's good, we will merge it into the main branch.
 
+```js
+1: Branch: alpha.nxie.uk  | Use this branch if you want to help develop | Do not use in 'PRODUCTION'
+2: Branch: beta.nxie.uk | This branch is the testing branch before being deployed to main and only the team can access it.
+3: Branch: main | This is the main branch, and so is locked to the public.
+```
+
 ## How to run
 First you will need to create an account on [**Firebase**](https://firebase.google.com), as we use a two layer authentication system, which requires a **Firebase** account.  
 ```js
